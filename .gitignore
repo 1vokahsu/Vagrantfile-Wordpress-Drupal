@@ -1,2 +1,4 @@
+# Info about VM 
 .vagrant
+# DS_Store is a file for storing viewing parameters, such as the location of icons, the size of the Finder window and window backgrounds.
 .DS_Store
