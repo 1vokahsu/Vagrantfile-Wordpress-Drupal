@@ -95,7 +95,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@svokahsu](https://web.telegram.org/svokahsu) - alexandrushakov0408@gmail.com
+Sasha - [@svokahsu](https://web.telegram.org/svokahsu) - alexandrushakov0408@gmail.com
 
 Project Link: [https://github.com/1vokahsu/Vagrantfile-Wordpress-Drupal](https://github.com/1vokahsu/Vagrantfile-Wordpress-Drupal)
 
